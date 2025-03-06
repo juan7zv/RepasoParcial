@@ -4,5 +4,8 @@ public class Inventario{
     }
     public void metodoB() {
         System.out.println("Ejecutando método B");
-        }
+    }
+    public void metodoC(){
+        System.out.println("Ejecutando método C");
+    }
 }
